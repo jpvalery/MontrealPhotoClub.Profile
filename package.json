@@ -19,7 +19,7 @@
     "comma-number": "^2.0.1",
     "date-fns": "2.16.1",
     "gray-matter": "4.0.2",
-    "next": "15.2.3",
+    "next": "15.2.6",
     "next-seo": "^4.17.0",
     "postcss": "^8.4.4",
     "react": "19.0.0",
